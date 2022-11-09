@@ -1,0 +1,21 @@
+/* Text */
+.text-center{
+    text-align: center;
+}
+.heading-small{
+    font-size: 1.25rem;
+
+}
+.heading-medium{
+    font-size: 1.5rem;
+}
+.heading-big{
+    font-size: 1.75rem;
+}
+/* -Colars-*/
+.bg-dark-grey{
+    background:#313131 ;
+}
+.bg-light-blue{
+    background: #aea8a8;
+}

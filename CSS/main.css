@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color:#e4e4e4;
+}
+h1{
+    
+    color:#e4e4e4;
+}
+        /* Nvbar */
+#navbar{
+    color:#313131;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem;
+    height: 70px;
+}
+#navbar ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    
+}
+#navbar ul li a{
+    padding: 0.75rem;
+}
+#navbar ul li a:hover{
+    background-color: #aea8a8;
+    border-radius: 4px;
+}
